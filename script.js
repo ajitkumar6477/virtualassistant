@@ -46,7 +46,7 @@ function takeCommand(message){
     if(message.includes("hello")||message.includes("hey")){
         speak("hello sir,what can i help you?")
     }
-    else if(message.includes("hu r u")){
+    else if(message.includes("who are you")){
         speak("i am virtual assistant ,created by Ajit Sir aur ajit sir ne bahut mehnat karke mujhe banaya hai thank you ajit sir")
     }else if(message.includes("ajit sar kahan rahte hain")){
             speak("waise to ajit sir ghaziabad mai rahte hai lekin filhal wo abhi mere dil mai rahte hai")
