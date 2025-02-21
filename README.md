@@ -1,2 +1,0 @@
-# virtualassistant
-virtual assistant
